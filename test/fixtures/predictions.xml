@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body copyright="All data copyright MBTA 2010.">
+<predictions agencyTitle="MBTA" routeTitle="39" routeTag="39" stopTitle="105 S Huntington (Stop 22365)">
+  <direction title="Outbound">
+    <prediction seconds="745" minutes="12" epochTime="1266681828070" isDeparture="false" dirTag="out" vehicle="1041" block="S393_6"/>
+    <prediction seconds="1299" minutes="21" epochTime="1266681828075" isDeparture="false" dirTag="out" vehicle="1022" block="S393_7"/>
+    <prediction seconds="1929" minutes="32" epochTime="1266683011947" isDeparture="false" dirTag="out" vehicle="1027" block="S393_1"/>
+    <prediction seconds="2529" minutes="42" epochTime="1266683611947" isDeparture="false" dirTag="out" vehicle="1040" block="S393_2"/>
+    <prediction seconds="3129" minutes="52" epochTime="1266684211947" isDeparture="false" dirTag="out" vehicle="1037" block="S393_8"/>
+  </direction>
+</predictions>
+</body>

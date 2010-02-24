@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body copyright="All data copyright MBTA 2010.">
+<predictions agencyTitle="MBTA" routeTitle="39" routeTag="39" stopTitle="S Huntington Ave @ Perkins St (Stop 6570)">
+  <direction title="Inbound">
+    <prediction seconds="113" minutes="1" epochTime="1266681223337" isDeparture="false" dirTag="in" vehicle="1037" block="S393_8"/>
+    <prediction seconds="730" minutes="12" epochTime="1266681840485" isDeparture="false" dirTag="in" vehicle="1034" block="S393_3"/>
+    <prediction seconds="1340" minutes="22" epochTime="1266682450272" isDeparture="false" dirTag="in" vehicle="1039" block="S393_4"/>
+    <prediction seconds="1940" minutes="32" epochTime="1266683050272" isDeparture="false" dirTag="in" vehicle="1033" block="S393_5"/>
+    <prediction seconds="2540" minutes="42" epochTime="1266683650272" isDeparture="false" dirTag="in" vehicle="1041" block="S393_6"/>
+  </direction>
+</predictions>
+<predictions agencyTitle="MBTA" routeTitle="39" routeTag="39" stopTitle="S Huntington Ave @ Bynner St (Stop 6571)">
+  <direction title="Inbound">
+    <prediction seconds="158" minutes="2" epochTime="1266681268681" isDeparture="false" dirTag="in" vehicle="1037" block="S393_8"/>
+    <prediction seconds="773" minutes="12" epochTime="1266681884072" isDeparture="false" dirTag="in" vehicle="1034" block="S393_3"/>
+    <prediction seconds="1383" minutes="23" epochTime="1266682493859" isDeparture="false" dirTag="in" vehicle="1039" block="S393_4"/>
+    <prediction seconds="1983" minutes="33" epochTime="1266683093859" isDeparture="false" dirTag="in" vehicle="1033" block="S393_5"/>
+    <prediction seconds="2583" minutes="43" epochTime="1266683693859" isDeparture="false" dirTag="in" vehicle="1041" block="S393_6"/>
+  </direction>
+</predictions>
+</body>

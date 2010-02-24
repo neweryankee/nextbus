@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body copyright="All data copyright agencies listed below and NextBus Inc 2010.">
+<agency tag="mbta" title="MBTA" regionTitle="Massachusetts"/>
+<agency tag="sf-muni" title="San Francisco Muni" shortTitle="SF Muni" regionTitle="California-Northern"/>
+</body>
