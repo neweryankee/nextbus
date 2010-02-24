@@ -12,10 +12,16 @@ Gem::Specification.new do |s|
   s.date = %q{2010-02-23}
   s.description = %q{NextBus API client}
   s.email = %q{gsterndale@gmail.com}
+  s.extra_rdoc_files = [
+    "LICENSE",
+     "README.rdoc"
+  ]
   s.files = [
     ".gitignore",
      "Gemfile",
      "Gemfile.lock",
+     "LICENSE",
+     "README.rdoc",
      "Rakefile",
      "VERSION",
      "doc/ERM.graffle",
@@ -33,6 +39,7 @@ Gem::Specification.new do |s|
      "lib/nextbus/stop.rb",
      "lib/nextbus/string_extensions.rb",
      "lib/nextbus/vehicle.rb",
+     "nextbus.gemspec",
      "test/fixtures/agency_list.xml",
      "test/fixtures/error.xml",
      "test/fixtures/predictions.xml",
